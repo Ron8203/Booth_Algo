@@ -1,0 +1,29 @@
+Command line:
+   dff_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  52798
+
+Sat Aug 21 14:24:02 2021
+
+
+ Elaboration Time: 0.265625 sec
+
+ Current Memory Usage: 5806.21 Meg
+
+ Total Signals          : 16
+ Total Nets             : 17
+ Total Signal Drivers   : 6
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 8
+ Total Traceable Variables  : 19
+ Total Scalar Nets and Variables : 98
+Total Line Count : 18
+
+ Total Simulation Time: 0.265625 sec
+
+ Current Memory Usage: 5806.21 Meg
+
+Sat Aug 21 14:24:27 2021
+
